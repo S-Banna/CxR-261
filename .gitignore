@@ -1,0 +1,5 @@
+# Dataset
+ACDC/
+data/
+*.nii
+*.nii.gz
